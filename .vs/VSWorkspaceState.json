@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\obj",
+    "\\Properties",
+    "\\Tools",
+    "\\ViewModels",
+    "\\Views"
+  ],
+  "SelectedNode": "\\MainWindow.xaml.cs",
+  "PreviewInSolutionExplorer": false
+}
